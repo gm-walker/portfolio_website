@@ -1,8 +1,11 @@
 # **Portfolio Website**
-I am creating a platform for myself to host the various types of work that I am doing for potential clients/employers. 
+
+I am creating a platform for myself to host the various types of work that I am doing for potential clients/employers.
 
 ## **Objective(s)**
+
 To create a functional and aesthetically pleasing website that:
+
 - Demonstrates my skills
 - Presents information about me (+ contact information)
 - Hosts my work in an interactive manner
@@ -25,6 +28,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing any of the available pages. The page auto-updates as you edit the file.
 
-# **Build Log**
-{...}
+## **Build Log**
 
+{...}
